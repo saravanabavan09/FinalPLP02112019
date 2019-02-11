@@ -1,0 +1,733 @@
+2019-02-07-main-INFO -com.cg.crs.dao.CRSDaoImpl:in add Customer method
+2019-02-07-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection object created
+2019-02-07-main-ERROR-com.cg.crs.dao.CRSDaoImpl:ORA-02289: sequence does not exist
+
+2019-02-07-main-INFO -com.cg.crs.dao.CRSDaoImpl:in add Customer method
+2019-02-07-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection object created
+2019-02-07-main-ERROR-com.cg.crs.dao.CRSDaoImpl:ORA-00001: unique constraint (SYSTEM.SYS_C007420) violated
+
+2019-02-07-main-INFO -com.cg.crs.dao.CRSDaoImpl:in add Customer method
+2019-02-07-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection object created
+2019-02-07-main-ERROR-com.cg.crs.dao.CRSDaoImpl:ORA-00001: unique constraint (SYSTEM.SYS_C007420) violated
+
+2019-02-07-main-INFO -com.cg.crs.dao.CRSDaoImpl:in add Customer method
+2019-02-07-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection object created
+2019-02-07-main-INFO -com.cg.crs.dao.CRSDaoImpl:execute update called
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:in add Customer method
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection object created
+2019-02-08-main-ERROR-com.cg.crs.dao.CRSDaoImpl:ORA-02291: integrity constraint (SYSTEM.SYS_C007421) violated - parent key not found
+
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:in add Customer method
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection object created
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:execute update called
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:in add Customer method
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection object created
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:execute update called
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:in add Customer method
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection object created
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:execute update called
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection created
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:Claim History viewed successfully
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection created
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:Claim History viewed successfully
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection created
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:Claim History viewed successfully
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection created
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:Claim History viewed successfully
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection created
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:Claim History viewed successfully
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection created
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:Claim History viewed successfully
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection created
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:Claim History viewed successfully
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection created
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:Claim History viewed successfully
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:in add Customer method
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection object created
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:execute update called
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:in add Customer method
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection object created
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:execute update called
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:in add Customer method
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection object created
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:execute update called
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:in add Customer method
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection object created
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:execute update called
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:in add Customer method
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection object created
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:execute update called
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:in add Customer method
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection object created
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:execute update called
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:in add Customer method
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection object created
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:execute update called
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:in add Customer method
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection object created
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:execute update called
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:in add Customer method
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection object created
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:execute update called
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:in add Customer method
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection object created
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:execute update called
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:in add Customer method
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection object created
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:execute update called
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:in add Customer method
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection object created
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:execute update called
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:in add Customer method
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection object created
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:execute update called
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:in add Customer method
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection object created
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:execute update called
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:in add Customer method
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection object created
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:execute update called
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:in add Customer method
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection object created
+2019-02-08-main-INFO -com.cg.crs.dao.CRSDaoImpl:execute update called
+2019-02-09-main-INFO -com.cg.crs.dao.CRSDaoImpl:in add Customer method
+2019-02-09-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection object created
+2019-02-09-main-INFO -com.cg.crs.dao.CRSDaoImpl:execute update called
+2019-02-09-main-INFO -com.cg.crs.dao.CRSDaoImpl:in add Customer method
+2019-02-09-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection object created
+2019-02-09-main-INFO -com.cg.crs.dao.CRSDaoImpl:execute update called
+2019-02-09-main-INFO -com.cg.crs.dao.CRSDaoImpl:in add Customer method
+2019-02-09-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection object created
+2019-02-09-main-INFO -com.cg.crs.dao.CRSDaoImpl:execute update called
+2019-02-09-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection created
+2019-02-09-main-INFO -com.cg.crs.dao.CRSDaoImpl:Claim History viewed successfully
+2019-02-09-main-INFO -com.cg.crs.dao.CRSDaoImpl:in add Customer method
+2019-02-09-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection object created
+2019-02-09-main-INFO -com.cg.crs.dao.CRSDaoImpl:execute update called
+2019-02-09-main-INFO -com.cg.crs.dao.CRSDaoImpl:in add Customer method
+2019-02-09-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection object created
+2019-02-09-main-INFO -com.cg.crs.dao.CRSDaoImpl:execute update called
+2019-02-09-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection created
+2019-02-09-main-INFO -com.cg.crs.dao.CRSDaoImpl:Claim History viewed successfully
+2019-02-09-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection created
+2019-02-09-main-INFO -com.cg.crs.dao.CRSDaoImpl:Claim History viewed successfully
+2019-02-09-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection created
+2019-02-09-main-INFO -com.cg.crs.dao.CRSDaoImpl:Claim History viewed successfully
+2019-02-09-main-INFO -com.cg.crs.dao.CRSDaoImpl:connection created
+2019-02-09-main-INFO -com.cg.crs.dao.CRSDaoImpl:Claim History viewed successfully
+2019-02-09-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:in add Customer method
+2019-02-09-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-09-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:execute update called
+2019-02-09-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:in add Customer method
+2019-02-09-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-09-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:execute update called
+2019-02-09-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:in add Customer method
+2019-02-09-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-09-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:execute update called
+2019-02-09-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection created
+2019-02-09-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Claim History viewed successfully
+2019-02-09-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection created
+2019-02-09-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Claim History viewed successfully
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:in add Customer method
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:in add Customer method
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:in add Customer method
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:in add Customer method
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:execute update called
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:in add Customer method
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:execute update called
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:in add Customer method
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:execute update called
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:in add Customer method
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:execute update called
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:in add Customer method
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:execute update called
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:in add Customer method
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:execute update called
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:in add Customer method
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:execute update called
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:in add Customer method
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:execute update called
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:in add Customer method
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:execute update called
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:in add Customer method
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:execute update called
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:IN Finally BLOCK
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:in add Customer method
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:execute update called
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:IN Finally BLOCK
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:in add Customer method
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:execute update called
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:IN Finally BLOCK
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:in add Customer method
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:execute update called
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:IN Finally BLOCK
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:in add Customer method
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:execute update called
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:IN Finally BLOCK
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:in add Customer method
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:execute update called
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:IN Finally BLOCK
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:in add Customer method
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:execute update called
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:IN Finally BLOCK
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:in add Customer method
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:execute update called
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:IN Finally BLOCK
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:IN Finally BLOCK
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:IN Finally BLOCK
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:IN Finally BLOCK
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:IN Finally BLOCK
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:in add Customer method
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:execute update called
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:IN Finally BLOCK
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:in add Customer method
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:execute update called
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:IN Finally BLOCK
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:in add Customer method
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:execute update called
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:IN Finally BLOCK
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:in add Customer method
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:execute update called
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:in add Customer method
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:execute update called
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:in add Customer method
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:execute update called
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:in add Customer method
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-10-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:execute update called
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:in add Customer method
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:execute update called
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:IN Finally BLOCK
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:in add Customer method
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:execute update called
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:IN Finally BLOCK
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:in add Customer method
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:execute update called
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:IN Finally BLOCK
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Claim History viewed successfully
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Claim History viewed successfully
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Claim History viewed successfully
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Claim History viewed successfully
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:in add Customer method
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:execute update called
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:IN Finally BLOCK
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:in add Customer method
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:execute update called
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:IN Finally BLOCK
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:in add Customer method
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:execute update called
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:IN Finally BLOCK
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Claim History viewed successfully
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Claim History viewed successfully
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Claim History viewed successfully
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Claim History viewed successfully
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Claim History viewed successfully
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Claim History viewed successfully
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:in add Customer method
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:execute update called
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:IN Finally BLOCK
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:in add Customer method
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:execute update called
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:IN Finally BLOCK
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:in add Customer method
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:execute update called
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:IN Finally BLOCK
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Claim History viewed successfully
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Claim History viewed successfully
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for checkUser in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Getting rolecode from the database
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Setting the value for the Rolecode
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Getting the list of policies and account Number in the policy table
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for getPolicies in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Getting all the policy ,policy Premium and the account Number in the policy Table
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Claim:Policy List is Displayed
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Claim:Seelcting the choice from the below option
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Claim:Entering the choice
+2019-02-11-main-INFO -com.cg.crs.mainclasses.AgentViewClaim:Entering the username of the customer
+2019-02-11-main-INFO -com.cg.crs.mainclasses.AgentViewClaim:Viewing the particular details of the customer
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Displaying the claimdatas for the Insurance Claim under the Agent
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for viewClaimHistory in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Claim History viewed successfully
+2019-02-11-main-INFO -com.cg.crs.mainclasses.AgentViewClaim:Dispalying the claim details of the customer
+2019-02-11-main-ERROR-com.cg.crs.mainclasses.AgentViewClaim:No database for the particular customer found
+2019-02-11-main-INFO -com.cg.crs.mainclasses.AgentViewClaim:Entering the values either 0 or 1
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for checkUser in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Getting rolecode from the database
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Setting the value for the Rolecode
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Getting the list of policies and account Number in the policy table
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for getPolicies in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Getting all the policy ,policy Premium and the account Number in the policy Table
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Claim:Policy List is Displayed
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Claim:Seelcting the choice from the below option
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Claim:Entering the choice
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Claim:Entering the policy number
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Claim:Validating for the given policy number
+2019-02-11-main-ERROR-com.cg.crs.mainclasses.Claim:Entering the policy which is not present in the above list
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Claim:Entering the policy number
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Claim:Validating for the given policy number
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Checking for the claim is made for the policynumber 
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for checkClaimed in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Claim:Selecting the choice from the below options
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Claim:Selecting the choice from the above options
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Claim:Selecting the reason as earthquake
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Adding the Customer claim details for the claim
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for insertClaimDetails in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:execute update called
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ClaimQuestions:Entering the claim questions
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Getting questions,options and answer weightage for the bussiness segment
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for getClaimQuestionId in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Getting the Questions for the policy Number 
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ClaimQuestions:Displaying claim questions from database
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ClaimQuestions:Selecting the option from the given questions
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ClaimQuestions:Displaying the weightage of the claim 
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Recording the questions and answer for the applied bussiness segment 
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for insertQuestion in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Storing the Claim Answer for the claim 
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ClaimQuestions:Displaying claim questions from database
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ClaimQuestions:Selecting the option from the given questions
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ClaimQuestions:Displaying the weightage of the claim 
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Recording the questions and answer for the applied bussiness segment 
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for insertQuestion in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Storing the Claim Answer for the claim 
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ClaimQuestions:Displaying claim questions from database
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ClaimQuestions:Selecting the option from the given questions
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ClaimQuestions:Displaying the weightage of the claim 
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Recording the questions and answer for the applied bussiness segment 
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for insertQuestion in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Storing the Claim Answer for the claim 
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ClaimQuestions:Displaying claim questions from database
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ClaimQuestions:Selecting the option from the given questions
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ClaimQuestions:Displaying the weightage of the claim 
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Recording the questions and answer for the applied bussiness segment 
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for insertQuestion in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Storing the Claim Answer for the claim 
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ClaimQuestions:Displaying the message for successfull selection
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Getting the Id for the policynumber
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for getClaimId in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Getting the Id for the Customer Claim
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:IN Finally BLOCK
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ClaimQuestions:Displaying the claim Id
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Getting the list of policies and account Number in the policy table
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for getPolicies in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Getting all the policy ,policy Premium and the account Number in the policy Table
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Claim:Policy List is Displayed
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Claim:Seelcting the choice from the below option
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Claim:Entering the choice
+2019-02-11-main-INFO -com.cg.crs.mainclasses.AgentViewClaim:Entering the username of the customer
+2019-02-11-main-INFO -com.cg.crs.mainclasses.AgentViewClaim:Viewing the particular details of the customer
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Displaying the claimdatas for the Insurance Claim under the Agent
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for viewClaimHistory in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Claim History viewed successfully
+2019-02-11-main-INFO -com.cg.crs.mainclasses.AgentViewClaim:Dispalying the claim details of the customer
+2019-02-11-main-ERROR-com.cg.crs.mainclasses.AgentViewClaim:No database for the particular customer found
+2019-02-11-main-INFO -com.cg.crs.mainclasses.AgentViewClaim:Entering the values either 0 or 1
+2019-02-11-main-INFO -com.cg.crs.mainclasses.AgentViewClaim:Displaying the tahnking message
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Displaying the claimed customer details
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for getAllClaim in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Displaying all the customer claim status 
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creation of new profile with username, password and rolecode
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for userProfileCheck in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for userProfileCreation in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Inserting all datas to the database
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl: ReportGeneration for the username 
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for userProfileCheck in QueryMapper
+2019-02-11-main-ERROR-com.cg.crs.dao.implementation.CRSDaoImpl:Report for the username is not present
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Adding the Customer claim details for the claim
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:connection object created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for insertClaimDetails in QueryMapper
+2019-02-11-main-ERROR-com.cg.crs.dao.implementation.CRSDaoImpl:Problem occured in the SQl query for the claim creation
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Displaying the status of the claim for the customer
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for getClaimStatus in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Viewing the claim status of the custpmer by the Given Id
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creation of new profile with username, password and rolecode
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for userProfileCheck in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creation of new profile with username, password and rolecode
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for userProfileCheck in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for userProfileCreation in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Inserting all datas to the database
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl: ReportGeneration for the username 
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for userProfileCheck in QueryMapper
+2019-02-11-main-ERROR-com.cg.crs.dao.implementation.CRSDaoImpl:Report for the username is not present
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl: ReportGeneration for the username 
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for userProfileCheck in QueryMapper
+2019-02-11-main-ERROR-com.cg.crs.dao.implementation.CRSDaoImpl:Report for the username is not present
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl: ReportGeneration for the username 
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for userProfileCheck in QueryMapper
+2019-02-11-main-ERROR-com.cg.crs.dao.implementation.CRSDaoImpl:Report for the username is not present
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl: ReportGeneration for the username 
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for userProfileCheck in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for reportGeneration in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Getting the report the given username
+2019-02-11-main-ERROR-com.cg.crs.dao.implementation.CRSDaoImpl:SQLException for viewing the report
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl: ReportGeneration for the username 
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for reportGeneration in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Getting the report the given username
+2019-02-11-main-ERROR-com.cg.crs.dao.implementation.CRSDaoImpl:SQLException for viewing the report
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl: ReportGeneration for the username 
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for userProfileCheck in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for reportGeneration in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Getting the report the given username
+2019-02-11-main-ERROR-com.cg.crs.dao.implementation.CRSDaoImpl:SQLException for viewing the report
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for checkUser in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Getting rolecode from the database
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Setting the value for the Rolecode
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Admin:Displaying the Admin menu
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Admin:Choosing from the menu
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Admin:The report is generating
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ReportGeneration:Entering the username
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for userProfileCheck in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl: ReportGeneration for the username 
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for userProfileCheck in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for reportGeneration in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Getting the report the given username
+2019-02-11-main-ERROR-com.cg.crs.dao.implementation.CRSDaoImpl:SQLException for viewing the report
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for checkUser in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Getting rolecode from the database
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Setting the value for the Rolecode
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Admin:Displaying the Admin menu
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Admin:Choosing from the menu
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Admin:The report is generating
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ReportGeneration:Entering the username
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for userProfileCheck in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl: ReportGeneration for the username 
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for userProfileCheck in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for reportGeneration in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Getting the report the given username
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ReportGeneration:Viewing the detail list
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ReportGeneration:Displaying the detail list
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ReportGeneration:Entering the policy number
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Detailed View of the Customer status
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for detailedview in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Detailed view of the claim status by the policy Number
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ReportGeneration:Displaying the details
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ReportGeneration:Displaying the questions for confirmation
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ReportGeneration:Displaying the question1
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ReportGeneration:Displaying the answer for the question1
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ReportGeneration:Displaying the answer for the question1
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ReportGeneration:Displaying the answer for the question1
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for checkUser in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Getting rolecode from the database
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Setting the value for the Rolecode
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Admin:Displaying the Admin menu
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Admin:Choosing from the menu
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Admin:The report is generating
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ReportGeneration:Entering the username
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for userProfileCheck in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl: ReportGeneration for the username 
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for userProfileCheck in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for reportGeneration in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Getting the report the given username
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ReportGeneration:Viewing the detail list
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ReportGeneration:Displaying the detail list
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ReportGeneration:Entering the policy number
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Detailed View of the Customer status
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for detailedview in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Detailed view of the claim status by the policy Number
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ReportGeneration:Displaying the details
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ReportGeneration:Displaying the questions for confirmation
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ReportGeneration:Displaying the question1
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ReportGeneration:Displaying the answer for the question1
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ReportGeneration:Displaying the answer for the question1
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ReportGeneration:Displaying the answer for the question1
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl: ReportGeneration for the username 
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for userProfileCheck in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for reportGeneration in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Getting the report the given username
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl: ReportGeneration for the username 
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for userProfileCheck in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for reportGeneration in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Getting the report the given username
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl: ReportGeneration for the username 
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for userProfileCheck in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for reportGeneration in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Getting the report the given username
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for checkUser in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Getting rolecode from the database
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Setting the value for the Rolecode
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Admin:Displaying the Admin menu
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Admin:Choosing from the menu
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for checkUser in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Getting rolecode from the database
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Setting the value for the Rolecode
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Getting the list of policies and account Number in the policy table
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for getPolicies in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Getting all the policy ,policy Premium and the account Number in the policy Table
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Claim:Policy List is Displayed
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Claim:Seelcting the choice from the below option
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Claim:Entering the choice
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Claim:Entering the policy number
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Claim:Validating for the given policy number
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Checking for the claim is made for the policynumber 
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for checkClaimed in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for checkUser in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Getting rolecode from the database
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Setting the value for the Rolecode
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Getting the list of policies and account Number in the policy table
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for getPolicies in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Getting all the policy ,policy Premium and the account Number in the policy Table
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Claim:Policy List is Displayed
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Claim:Seelcting the choice from the below option
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Claim:Entering the choice
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Claim:Entering the policy number
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Claim:Validating for the given policy number
+2019-02-11-main-ERROR-com.cg.crs.mainclasses.Claim:Entering the policy which is not present in the above list
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Claim:Entering the policy number
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for checkUser in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Getting rolecode from the database
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Setting the value for the Rolecode
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Admin:Displaying the Admin menu
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Admin:Choosing from the menu
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Admin:The report is generating
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ReportGeneration:Entering the username
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for userProfileCheck in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl: ReportGeneration for the username 
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for reportGeneration in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Getting the report the given username
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ReportGeneration:Viewing the detail list
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ReportGeneration:Displaying the detail list
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Admin:Displaying the Admin menu
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Admin:Choosing from the menu
+2019-02-11-main-INFO -com.cg.crs.mainclasses.Admin:The report is generating
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ReportGeneration:Entering the username
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for userProfileCheck in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl: ReportGeneration for the username 
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:JDBC connection created
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Creating Query for reportGeneration in QueryMapper
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Getting the report the given username
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the resultSet
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the statement
+2019-02-11-main-INFO -com.cg.crs.dao.implementation.CRSDaoImpl:Closing the connection
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ReportGeneration:Viewing the detail list
+2019-02-11-main-INFO -com.cg.crs.mainclasses.ReportGeneration:Displaying the detail list

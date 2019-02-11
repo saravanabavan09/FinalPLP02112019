@@ -1,0 +1,160 @@
+drop table policy_details;
+drop table claim_questions;
+drop table claim;
+drop table policy;
+drop table business_Segment;
+drop table accounts;
+drop table user_role;
+drop sequence generate_Claim_Id;
+
+
+CREATE TABLE User_Role(Username varchar2(20) primary key, password varchar2(20), role_Code varchar2(10));
+insert into user_role values('User1', 'user1', '1001');
+insert into user_role values('User2', 'user2', '1001');
+insert into user_role values('User3', 'user3', '1001');
+insert into user_role values('Agent1', 'agent1', '1002');
+insert into user_role values('Agent2', 'agent2', '1002');
+insert into user_role values('Admin', 'admin', '1003');
+
+create table business_segment(bus_seg_id varchar2(10) primary key, bus_seg_seq number(3), bus_seg_name varchar2(20));
+insert into business_segment values('2000000001', 100, 'Business Auto');
+insert into business_segment values('2000000002', 110, 'Restaurant');
+insert into business_segment values('2000000003', 120, 'Apartment');
+insert into business_segment values('2000000004', 130, 'General Merchant');
+
+CREATE TABLE Accounts(account_number number(10) primary key,insured_name varchar2(30), insured_street varchar2(40), insured_city varchar2(15),insured_state varchar2(15), insured_zip number(5), username varchar2(20) references user_role(username));
+insert into accounts values(1200001000,'Vidya', 'Madhapur Street', 'Hyderabad', 'Telangana', '50018', 'User1');
+insert into accounts values(1200001001,'Varun', 'Anderi East', 'Mumbai', 'Maharashtra', '50018', 'User2');
+insert into accounts values(1200001002,'Farzana', 'Tar naka', 'Hyderabad', 'Telangana', '50018', 'User3');
+insert into accounts values(1200001005,'Sharath', 'Musheerabad', 'Hyderabad', 'Telangana', '50018', 'Agent1');
+insert into accounts values(1200001006,'Abdulla', 'Jan Mohd Street', 'Pune', 'Maharashtra', '41101', 'Agent2');
+
+create table policy(policy_number number(10) primary key, bus_Seg_id varchar2(10) references business_segment(bus_seg_id), policy_premium number(8), account_number number(10) references Accounts(account_number));
+insert into policy values(8100001000, '2000000001', 7839.33,1200001000);
+insert into policy values(8100001001, '2000000002', 5446.33, 1200001000);
+insert into policy values(8100001002, '2000000003', 4139.33, 1200001000);
+insert into policy values(8100001003, '2000000004', 1269.33,1200001000);
+insert into policy values(8100001004, '2000000001', 4549.33,1200001001);
+insert into policy values(8100001005, '2000000002', 7856.33, 1200001001);
+insert into policy values(8100001006, '2000000003', 4539.33, 1200001001);
+insert into policy values(8100001007, '2000000004', 7869.33,1200001001);
+insert into policy values(8100001008, '2000000001', 4899.33,1200001002);
+insert into policy values(8100001009, '2000000002', 7546.33, 1200001002);
+insert into policy values(8100001010, '2000000003', 8969.33, 1200001002);
+insert into policy values(8100001011, '2000000004', 2149.33,1200001002);
+insert into policy values(8100001012, '2000000001', 4789.33,1200001005);
+insert into policy values(8100001013, '2000000002', 7254.33, 1200001005);
+insert into policy values(8100001014, '2000000003', 3549.33, 1200001005);
+insert into policy values(8100001015, '2000000004', 4589.33,1200001005);
+insert into policy values(8100001016, '2000000001', 6949.33,1200001006);
+insert into policy values(8100001017, '2000000002', 7856.33, 1200001006);
+insert into policy values(8100001018, '2000000003', 4539.33, 1200001006);
+insert into policy values(8100001019, '2000000004', 7869.33,1200001006);
+
+create table claim(claim_number number(10) primary key, claim_reason varchar2(30), accident_street varchar2(40), accident_city varchar2(15), accident_state varchar2(15), accident_zip number(5), claim_type varchar2(30), policy_number number(10) references policy(policy_number));
+
+create sequence generate_Claim_Id start with 9000100000 increment by 1;
+
+create table claim_questions(claim_ques_id varchar2(10) primary key, claim_ques_seq number(3), bus_seg_id varchar2(10) references business_segment(bus_seg_id), claim_ques_desc varchar2(80), claim_ques_ans1 varchar2(30),claim_ques_ans1_weightage number(5), claim_ques_ans2 varchar2(30),claim_ques_ans2_weightage number(5), claim_ques_ans3 varchar2(30),claim_ques_ans3_weightage number(5), claim_ques_ans4 varchar2(30),claim_ques_ans4_weightage number(5));
+insert into claim_questions values(3000,100,'2000000001','Claim Amount Reimbursement? ','75%' ,100,'50%',200,'25%',300,'100%',400 );
+insert into claim_questions values(3001,101,'2000000001','Do you have desired Bills? ','Yes' ,100,'No',200,'Not Sure',300,'Other',400 );
+insert into claim_questions values(3002,102,'2000000001','Paid Insurance Amounts On Time?','Yes' ,100,'No',200,'Not Sure',300,'Others',400 );
+insert into claim_questions values(3003,103,'2000000001','Applied FIR?','Yes' ,100,'No',200,'Not Sure',300,'Others',400 );
+insert into claim_questions values(3004,104,'2000000002','Claim Amount Reimbursement? ','75%' ,100,'50%',200,'25%',300,'100%',400 );
+insert into claim_questions values(3005,105,'2000000002','Do you have desired Bills? ','Yes' ,100,'No',200,'Not Sure',300,'Other',400 );
+insert into claim_questions values(3006,106,'2000000002','Paid Insurance Amounts On Time?','Yes' ,100,'No',200,'Not Sure',300,'Others',400 );
+insert into claim_questions values(3007,107,'2000000002','Applied FIR?','Yes' ,100,'No',200,'Not Sure',300,'Others',400 );
+insert into claim_questions values(3008,108,'2000000003','claim amount to be reimbursed for Home? ','75%' ,100,'50%',200,'25%',300,'100%',400 );
+insert into claim_questions values(3009,109,'2000000003','Do you have desired bill for Home? ','Yes' ,100,'No',200,'Not Sure',300,'Other',400 );
+insert into claim_questions values(3010,110,'2000000003','Paid Insurance on time for Home? ','Yes' ,100,'No',200,'Not Sure',300,'Others',400 );
+insert into claim_questions values(3011,111,'2000000003','Applied FIR for Home?','Yes' ,100,'No',200,'Not Sure',300,'Others',400 );
+insert into claim_questions values(3012,112,'2000000004','claim amount to be reimbursed for Merchant? ','75%' ,100,'50%',200,'25%',300,'100%',400 );
+insert into claim_questions values(3013,113,'2000000004','Do you have desired bill for Merchant? ','Yes' ,100,'No',200,'Not Sure',300,'Other',400 );
+insert into claim_questions values(3014,114,'2000000004','Paid Insurance on time for Merchant? ','Yes' ,100,'No',200,'Not Sure',300,'Others',400 );
+insert into claim_questions values(3015,115,'2000000004','Applied FIR for Merchant?','Yes' ,100,'No',200,'Not Sure',300,'Others',400 );
+
+create table policy_Details(policy_number number(10) references policy(policy_number), question_id varchar2(10) references claim_questions(claim_ques_id), answer varchar2(30));
+
+
+
+
+===================================================================================== Tables ===========================================================================
+
+User_role:
+
+USERNAME             PASSWORD             ROLE_CODE
+-------------------- -------------------- ----------
+User1                user1                1001
+User2                user2                1001
+User3                user3                1001
+Agent1               agent1               1002
+Agent2               agent2               1002
+Admin                admin                1003
+
+
+Business_segment:
+
+BUS_SEG_ID BUS_SEG_SEQ BUS_SEG_NAME
+---------- ----------- --------------------
+2000000001         100 Business Auto
+2000000002         110 Restaurant
+2000000003         120 Apartment
+2000000004         130 General Merchant
+
+
+Accounts:
+
+ACCOUNT_NUMBER INSURED_NAME                   INSURED_STREET                           INSURED_CITY    INSURED_STATE   INSURED_ZIP USERNAME
+-------------- ------------------------------ ---------------------------------------- --------------- --------------- ----------- --------------------
+    1200001000 Vidya                          Madhapur Street                          Hyderabad       Telangana             50018 User1
+    1200001001 Varun                          Anderi East                              Mumbai          Maharashtra           50018 User2
+    1200001002 Farzana                        Tar naka                                 Hyderabad       Telangana             50018 User3
+    1200001005 Sharath                        Musheerabad                              Hyderabad       Telangana             50018 Agent1
+    1200001006 Abdulla                        Jan Mohd Street                          Pune            Maharashtra           41101 Agent2
+
+Policy:
+
+POLICY_NUMBER BUS_SEG_ID POLICY_PREMIUM ACCOUNT_NUMBER
+------------- ---------- -------------- --------------
+   8100001000 2000000001           7839     1200001000
+   8100001001 2000000002           5446     1200001000
+   8100001002 2000000003           4139     1200001000
+   8100001003 2000000004           1269     1200001000
+   8100001004 2000000001           4549     1200001001
+   8100001005 2000000002           7856     1200001001
+   8100001006 2000000003           4539     1200001001
+   8100001007 2000000004           7869     1200001001
+   8100001008 2000000001           4899     1200001002
+   8100001009 2000000002           7546     1200001002
+   8100001010 2000000003           8969     1200001002
+   8100001011 2000000004           2149     1200001002
+   8100001012 2000000001           4789     1200001005
+   8100001013 2000000002           7254     1200001005
+   8100001014 2000000003           3549     1200001005
+   8100001015 2000000004           4589     1200001005
+   8100001016 2000000001           6949     1200001006
+   8100001017 2000000002           7856     1200001006
+   8100001018 2000000003           4539     1200001006
+   8100001019 2000000004           7869     1200001006
+
+
+claim_questions:
+
+CLAIM_QUES_ID CLAIM_QUES_SEQ BUS_SEG_ID CLAIM_QUES_DESC                               CLAIM_QUES_ANS1 CLAIM_QUES_ANS1_WEIGHTAGE CLAIM_QUES_ANS2 CLAIM_QUES_ANS2_WEIGHTAGE CLAIM_QUES_ANS3 CLAIM_QUES_ANS3_WEIGHTAGE CLAIM_QUES_ANS4 CLAIM_QUES_ANS4_WEIGHTAGE
+------------  -------------- ---------- --------------------------------------------- --------------- ------------------------- --------------- ------------------------- --------------- ------------------------- --------------- -------------------------
+3000                     100 2000000001 Claim Amount Reimbursement?                   75%                                   100 50%                                   200 25%                            300 100%                                  400
+3001                     101 2000000001 Do you have desired Bills?                    Yes                                   100 No                                    200 Not Sure                       300 Other                                 400
+3002                     102 2000000001  Paid Insurance Amounts On Time?              Yes                                   100 No                                    200 Not Sure                       300 Others                                400
+3003                     103 2000000001  Applied FIR?                                 Yes                                   100 No                                    200 Not Sure                       300 Others                                400
+3004                     104 2000000002 Claim Amount Reimbursement?                   75%                                   100 50%                                   200 25%                            300 100%                                  400
+3005                     105 2000000002 Do you have desired Bills?                    Yes                                   100 No                                    200 Not Sure                       300 Other                                 400
+3006                     106 2000000002  Paid Insurance Amounts On Time?              Yes                                   100 No                                    200 Not Sure                       300 Others                                400
+3007                     107 2000000002  Applied FIR?                                 Yes                                   100 No                                    200 Not Sure                       300 Others                                400
+3008                     108 2000000003  claim amount to be reimbursed for Home?      75%                                   100 50%                                   200 25%                            300 100%                                  400
+3009                     109 2000000003  Do you have desired bill for Home?           Yes                                   100 No                                    200 Not Sure                       300 Other                                 400
+3010                     110 2000000003   Paid Insurance on time for Home?            Yes                                   100 No                                    200 Not Sure                       300 Others                                400
+3011                     111 2000000003  Applied FIR for Home?                        Yes                                   100 No                                    200 Not Sure                       300 Others                                400
+3012                     112 2000000004  claim amount to be reimbursed for Merchant?  75%                                   100 50%                                   200 25%                            300 100%                                  400
+3013                     113 2000000004  Do you have desired bill for Merchant?       Yes                                   100 No                                    200 Not Sure                       300 Other                                 400
+3014                     114 2000000004   Paid Insurance on time for Merchant?        Yes                                   100 No                                    200 Not Sure                       300 Others                                400
+3015                     115 2000000004  Applied FIR for Merchant?                    Yes                                   100 No                                    200 Not Sure                       300 Others                                400
